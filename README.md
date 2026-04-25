@@ -1,4 +1,4 @@
-# 🏥 Disease Prediction System
+# Disease Prediction System
 > Machine Learning based disease prediction using patient symptom data
 
 **Name:** Prashanth P. | **USN:** 25MSDSR067
@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Early diagnosis is critical in healthcare but doctors often face overlapping symptoms across thousands of records. This project builds an ML-based system that analyzes structured patient symptom data to predict disease categories with high accuracy and support clinical decision-making.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 disease-prediction-system/
@@ -34,7 +34,7 @@ disease-prediction-system/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 | Attribute | Value |
 |---|---|
@@ -48,7 +48,7 @@ disease-prediction-system/
 
 ---
 
-## ⚙️ Models Trained
+## Models Trained
 
 | Model | Accuracy | Recall | F1-Score |
 |---|---|---|---|
@@ -60,7 +60,7 @@ disease-prediction-system/
 
 ---
 
-## 🔬 Key Findings
+## Key Findings
 
 - **SVM with RBF kernel** achieved the best accuracy of **99.70%** — ideal for high-dimensional binary feature spaces
 - **Random Forest** provides feature importance for clinical interpretability
@@ -69,7 +69,7 @@ disease-prediction-system/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Install dependencies
@@ -84,12 +84,8 @@ python disease_prediction.py
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 `Python 3` · `scikit-learn` · `pandas` · `numpy` · `matplotlib` · `seaborn`
 
 ---
-
-## ⚠️ Disclaimer
-
-This project is for **educational purposes only** and does not constitute medical advice.
